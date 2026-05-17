@@ -1,0 +1,288 @@
+17/05/2026 11:31:13 - === AUTO DASHBOARD GENERATION STARTED ===
+17/05/2026 11:31:13 - Timestamp: 17/05/2026 11:31:13
+17/05/2026 11:31:13 - Step 1: Generating last 3 days of dashboards...
+17/05/2026 11:31:13 - Regenerating last 3 days of dashboards...
+17/05/2026 11:31:13 - Generated: dashboard_20260515.html
+17/05/2026 11:31:13 - Generated: dashboard_20260516.html
+17/05/2026 11:31:13 - Generated: dashboard_20260517.html
+17/05/2026 11:31:13 - ? Regenerated 3 days of dashboards
+17/05/2026 11:31:13 - ? Dashboards generated successfully (includes yesterday for data updates)
+17/05/2026 11:31:13 - Step 1b: Regenerating main.html with date list...
+17/05/2026 11:31:13 - GenerateMainIndex: Searching for files in: C:\CLNTMP\FILES\EINVOICE_RUN\DRWONG\PERMATA\API_DATA\dashboard_*.html
+17/05/2026 11:31:13 - GenerateMainIndex: Found 3 files
+17/05/2026 11:31:13 - Generated main.html with 3 dates
+17/05/2026 11:31:13 - ? main.html regenerated with latest dates (DESCENDING order)
+17/05/2026 11:31:13 - Step 1c: Generating login page as index.html...
+17/05/2026 11:31:13 - Generated index.html (login page)
+17/05/2026 11:31:13 - ? Login page generated as index.html
+17/05/2026 11:31:13 - Step 1d: Exporting users to JSON...
+17/05/2026 11:31:13 - User table not found, using default users
+17/05/2026 11:31:13 - Generated users.json
+17/05/2026 11:31:13 - ? users.json exported
+17/05/2026 11:31:13 - Step 2: Cleaning up old dashboard files...
+17/05/2026 11:31:13 - ? Cleaned up 0 old files
+17/05/2026 11:31:13 - Step 3: Deploying to GitHub...
+17/05/2026 11:31:13 - ERROR: No GitHub token
+17/05/2026 11:31:13 - ? GitHub deployment failed
+17/05/2026 11:31:13 - Step 4: Uploading log file...
+17/05/2026 11:31:13 - === PROCESS COMPLETED SUCCESSFULLY ===
+17/05/2026 11:35:17 - === AUTO DASHBOARD GENERATION STARTED ===
+17/05/2026 11:35:17 - Timestamp: 17/05/2026 11:35:17
+17/05/2026 11:35:17 - Step 1: Generating last 3 days of dashboards...
+17/05/2026 11:35:17 - Regenerating last 3 days of dashboards...
+17/05/2026 11:35:17 - Generated: dashboard_20260515.html
+17/05/2026 11:35:17 - Generated: dashboard_20260516.html
+17/05/2026 11:35:17 - Generated: dashboard_20260517.html
+17/05/2026 11:35:17 - ? Regenerated 3 days of dashboards
+17/05/2026 11:35:17 - ? Dashboards generated successfully (includes yesterday for data updates)
+17/05/2026 11:35:17 - Step 1b: Regenerating main.html with date list...
+17/05/2026 11:35:17 - GenerateMainIndex: Searching for files in: C:\CLNTMP\FILES\EINVOICE_RUN\DRWONG\PERMATA\API_DATA\dashboard_*.html
+17/05/2026 11:35:17 - GenerateMainIndex: Found 3 files
+17/05/2026 11:35:17 - Generated main.html with 3 dates
+17/05/2026 11:35:17 - ? main.html regenerated with latest dates (DESCENDING order)
+17/05/2026 11:35:17 - Step 1c: Generating login page as index.html...
+17/05/2026 11:35:17 - Generated index.html (login page)
+17/05/2026 11:35:17 - ? Login page generated as index.html
+17/05/2026 11:35:17 - Step 1d: Exporting users to JSON...
+17/05/2026 11:35:17 - User table not found, using default users
+17/05/2026 11:35:17 - Generated users.json
+17/05/2026 11:35:17 - ? users.json exported
+17/05/2026 11:35:17 - Step 2: Cleaning up old dashboard files...
+17/05/2026 11:35:17 - ? Cleaned up 0 old files
+17/05/2026 11:35:17 - Step 3: Deploying to GitHub...
+17/05/2026 11:35:17 - Found 5 files to upload
+17/05/2026 11:35:18 - Uploaded: dashboard_20260515.html
+17/05/2026 11:35:20 - Uploaded: dashboard_20260516.html
+17/05/2026 11:35:21 - Uploaded: dashboard_20260517.html
+17/05/2026 11:35:22 - Uploaded: index.html
+17/05/2026 11:35:23 - Uploaded: main.html
+17/05/2026 11:35:25 - Uploaded: users.json
+17/05/2026 11:35:25 - Upload complete: 6/6 files
+17/05/2026 11:35:25 - ? Deployed to GitHub successfully
+17/05/2026 11:35:25 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
+17/05/2026 11:35:25 - Step 4: Uploading log file...
+17/05/2026 11:35:27 - ? Log file uploaded to GitHub
+17/05/2026 11:35:27 - === PROCESS COMPLETED SUCCESSFULLY ===
+17/05/2026 11:41:29 - === AUTO DASHBOARD GENERATION STARTED ===
+17/05/2026 11:41:29 - Timestamp: 17/05/2026 11:41:29
+17/05/2026 11:41:29 - Step 1: Generating last 3 days of dashboards...
+17/05/2026 11:41:29 - Regenerating last 7 days of dashboards...
+17/05/2026 11:41:29 - Generated: dashboard_20260511.html
+17/05/2026 11:41:29 - Generated: dashboard_20260512.html
+17/05/2026 11:41:29 - Generated: dashboard_20260513.html
+17/05/2026 11:41:29 - Generated: dashboard_20260514.html
+17/05/2026 11:41:30 - Generated: dashboard_20260515.html
+17/05/2026 11:41:30 - Generated: dashboard_20260516.html
+17/05/2026 11:41:30 - Generated: dashboard_20260517.html
+17/05/2026 11:41:30 - ? Regenerated 7 days of dashboards
+17/05/2026 11:41:30 - ? Dashboards generated successfully (includes yesterday for data updates)
+17/05/2026 11:41:30 - Step 1b: Regenerating main.html with date list...
+17/05/2026 11:41:30 - GenerateMainIndex: Searching for files in: C:\CLNTMP\FILES\EINVOICE_RUN\DRWONG\PERMATA\API_DATA\dashboard_*.html
+17/05/2026 11:41:30 - GenerateMainIndex: Found 7 files
+17/05/2026 11:41:30 - Generated main.html with 7 dates
+17/05/2026 11:41:30 - ? main.html regenerated with latest dates (DESCENDING order)
+17/05/2026 11:41:30 - Step 1c: Generating login page as index.html...
+17/05/2026 11:41:30 - Generated index.html (login page)
+17/05/2026 11:41:30 - ? Login page generated as index.html
+17/05/2026 11:41:30 - Step 1d: Exporting users to JSON...
+17/05/2026 11:41:30 - Exported 2 users to users.json
+17/05/2026 11:41:30 - Generated users.json
+17/05/2026 11:41:30 - ? users.json exported
+17/05/2026 11:41:30 - Step 2: Cleaning up old dashboard files...
+17/05/2026 11:41:30 - ? Cleaned up 0 old files
+17/05/2026 11:41:30 - Step 3: Deploying to GitHub...
+17/05/2026 11:41:30 - Found 9 files to upload
+17/05/2026 11:41:31 - Uploaded: dashboard_20260511.html
+17/05/2026 11:41:32 - Uploaded: dashboard_20260512.html
+17/05/2026 11:41:33 - Uploaded: dashboard_20260513.html
+17/05/2026 11:41:34 - Uploaded: dashboard_20260514.html
+17/05/2026 11:41:36 - Uploaded: dashboard_20260515.html
+17/05/2026 11:41:37 - Uploaded: dashboard_20260516.html
+17/05/2026 11:41:38 - Uploaded: dashboard_20260517.html
+17/05/2026 11:41:39 - Uploaded: index.html
+17/05/2026 11:41:40 - Uploaded: main.html
+17/05/2026 11:41:41 - Uploaded: users.json
+17/05/2026 11:41:41 - Upload complete: 10/10 files
+17/05/2026 11:41:41 - ? Deployed to GitHub successfully
+17/05/2026 11:41:41 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
+17/05/2026 11:41:41 - Step 4: Uploading log file...
+17/05/2026 11:41:43 - ? Log file uploaded to GitHub
+17/05/2026 11:41:43 - === PROCESS COMPLETED SUCCESSFULLY ===
+17/05/2026 11:52:27 - === AUTO DASHBOARD GENERATION STARTED ===
+17/05/2026 11:52:27 - Timestamp: 17/05/2026 11:52:27
+17/05/2026 11:52:27 - Step 1: Generating last 3 days of dashboards...
+17/05/2026 11:52:27 - Regenerating last 7 days of dashboards...
+17/05/2026 11:52:27 - Generated: dashboard_20260511.html
+17/05/2026 11:52:27 - Generated: dashboard_20260512.html
+17/05/2026 11:52:27 - Generated: dashboard_20260513.html
+17/05/2026 11:52:27 - Generated: dashboard_20260514.html
+17/05/2026 11:52:27 - Generated: dashboard_20260515.html
+17/05/2026 11:52:27 - Generated: dashboard_20260516.html
+17/05/2026 11:52:27 - Generated: dashboard_20260517.html
+17/05/2026 11:52:27 - ? Regenerated 7 days of dashboards
+17/05/2026 11:52:27 - ? Dashboards generated successfully (includes yesterday for data updates)
+17/05/2026 11:52:27 - Step 1b: Regenerating main.html with date list...
+17/05/2026 11:52:27 - GenerateMainIndex: Searching for files in: C:\CLNTMP\FILES\EINVOICE_RUN\DRWONG\PERMATA\API_DATA\dashboard_*.html
+17/05/2026 11:52:27 - GenerateMainIndex: Found 7 files
+17/05/2026 11:52:27 - Generated main.html with 7 dates
+17/05/2026 11:52:27 - ? main.html regenerated with latest dates (DESCENDING order)
+17/05/2026 11:52:27 - Step 1c: Generating login page as index.html...
+17/05/2026 11:52:27 - Generated index.html (login page)
+17/05/2026 11:52:27 - ? Login page generated as index.html
+17/05/2026 11:52:27 - Step 1d: Exporting users to JSON...
+17/05/2026 11:52:27 - Exported 2 users to users.json
+17/05/2026 11:52:27 - Generated users.json
+17/05/2026 11:52:27 - ? users.json exported
+17/05/2026 11:52:27 - Step 2: Cleaning up old dashboard files...
+17/05/2026 11:52:27 - ? Cleaned up 0 old files
+17/05/2026 11:52:27 - Step 3: Deploying to GitHub...
+17/05/2026 11:52:27 - Found 9 files to upload
+17/05/2026 11:52:29 - Uploaded: dashboard_20260511.html
+17/05/2026 11:52:30 - Uploaded: dashboard_20260512.html
+17/05/2026 11:52:31 - Uploaded: dashboard_20260513.html
+17/05/2026 11:52:33 - Uploaded: dashboard_20260514.html
+17/05/2026 11:52:34 - Uploaded: dashboard_20260515.html
+17/05/2026 11:52:35 - Uploaded: dashboard_20260516.html
+17/05/2026 11:52:37 - Uploaded: dashboard_20260517.html
+17/05/2026 11:52:38 - Uploaded: index.html
+17/05/2026 11:52:39 - Uploaded: main.html
+17/05/2026 11:52:41 - Uploaded: users.json
+17/05/2026 11:52:41 - Upload complete: 10/10 files
+17/05/2026 11:52:41 - ? Deployed to GitHub successfully
+17/05/2026 11:52:41 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
+17/05/2026 11:52:41 - Step 4: Uploading log file...
+17/05/2026 11:52:42 - ? Log file uploaded to GitHub
+17/05/2026 11:52:42 - === PROCESS COMPLETED SUCCESSFULLY ===
+17/05/2026 12:07:29 - === AUTO DASHBOARD GENERATION STARTED ===
+17/05/2026 12:07:29 - Timestamp: 17/05/2026 12:07:29
+17/05/2026 12:07:29 - Step 1: Generating last 3 days of dashboards...
+17/05/2026 12:07:29 - Regenerating last 7 days of dashboards...
+17/05/2026 12:07:29 - Generated: dashboard_20260511.html
+17/05/2026 12:07:29 - Generated: dashboard_20260512.html
+17/05/2026 12:07:29 - Generated: dashboard_20260513.html
+17/05/2026 12:07:29 - Generated: dashboard_20260514.html
+17/05/2026 12:07:29 - Generated: dashboard_20260515.html
+17/05/2026 12:07:29 - Generated: dashboard_20260516.html
+17/05/2026 12:07:29 - Generated: dashboard_20260517.html
+17/05/2026 12:07:29 - ? Regenerated 7 days of dashboards
+17/05/2026 12:07:29 - ? Dashboards generated successfully (includes yesterday for data updates)
+17/05/2026 12:07:29 - Step 1b: Regenerating main.html with date list...
+17/05/2026 12:07:29 - GenerateMainIndex: Searching for files in: C:\CLNTMP\FILES\EINVOICE_RUN\DRWONG\PERMATA\API_DATA\dashboard_*.html
+17/05/2026 12:07:29 - GenerateMainIndex: Found 7 files
+17/05/2026 12:07:29 - Generated main.html with 7 dates
+17/05/2026 12:07:29 - ? main.html regenerated with latest dates (DESCENDING order)
+17/05/2026 12:07:29 - Step 1c: Generating login page as index.html...
+17/05/2026 12:07:29 - Generated index.html (login page)
+17/05/2026 12:07:29 - ? Login page generated as index.html
+17/05/2026 12:07:29 - Step 1d: Exporting users to JSON...
+17/05/2026 12:07:29 - Exported 2 users to users.json
+17/05/2026 12:07:29 - Generated users.json
+17/05/2026 12:07:29 - ? users.json exported
+17/05/2026 12:07:29 - Step 2: Cleaning up old dashboard files...
+17/05/2026 12:07:29 - ? Cleaned up 0 old files
+17/05/2026 12:07:29 - Step 3: Deploying to GitHub...
+17/05/2026 12:07:29 - Found 9 files to upload
+17/05/2026 12:07:31 - Uploaded: dashboard_20260511.html
+17/05/2026 12:07:32 - Uploaded: dashboard_20260512.html
+17/05/2026 12:07:34 - Uploaded: dashboard_20260513.html
+17/05/2026 12:07:35 - Uploaded: dashboard_20260514.html
+17/05/2026 12:07:36 - Uploaded: dashboard_20260515.html
+17/05/2026 12:07:37 - Uploaded: dashboard_20260516.html
+17/05/2026 12:07:39 - Uploaded: dashboard_20260517.html
+17/05/2026 12:07:40 - Uploaded: index.html
+17/05/2026 12:07:41 - Uploaded: main.html
+17/05/2026 12:07:42 - Uploaded: users.json
+17/05/2026 12:07:42 - Upload complete: 10/10 files
+17/05/2026 12:07:42 - ? Deployed to GitHub successfully
+17/05/2026 12:07:42 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
+17/05/2026 12:07:42 - Step 4: Uploading log file...
+17/05/2026 12:07:44 - ? Log file uploaded to GitHub
+17/05/2026 12:07:44 - === PROCESS COMPLETED SUCCESSFULLY ===
+17/05/2026 12:18:13 - === AUTO DASHBOARD GENERATION STARTED ===
+17/05/2026 12:18:13 - Timestamp: 17/05/2026 12:18:13
+17/05/2026 12:18:13 - Step 1: Generating last 3 days of dashboards...
+17/05/2026 12:18:13 - Regenerating last 7 days of dashboards...
+17/05/2026 12:18:13 - Generated: dashboard_20260511.html
+17/05/2026 12:18:13 - Generated: dashboard_20260512.html
+17/05/2026 12:18:13 - Generated: dashboard_20260513.html
+17/05/2026 12:18:13 - Generated: dashboard_20260514.html
+17/05/2026 12:18:13 - Generated: dashboard_20260515.html
+17/05/2026 12:18:13 - Generated: dashboard_20260516.html
+17/05/2026 12:18:13 - Generated: dashboard_20260517.html
+17/05/2026 12:18:13 - ? Regenerated 7 days of dashboards
+17/05/2026 12:18:13 - ? Dashboards generated successfully (includes yesterday for data updates)
+17/05/2026 12:18:13 - Step 1b: Regenerating main.html with date list...
+17/05/2026 12:18:13 - GenerateMainIndex: Searching for files in: C:\CLNTMP\FILES\EINVOICE_RUN\DRWONG\PERMATA\API_DATA\dashboard_*.html
+17/05/2026 12:18:13 - GenerateMainIndex: Found 7 files
+17/05/2026 12:18:13 - Generated main.html with 7 dates
+17/05/2026 12:18:13 - ? main.html regenerated with latest dates (DESCENDING order)
+17/05/2026 12:18:13 - Step 1c: Generating login page as index.html...
+17/05/2026 12:18:13 - Generated index.html (login page)
+17/05/2026 12:18:13 - ? Login page generated as index.html
+17/05/2026 12:18:13 - Step 1d: Exporting users to JSON...
+17/05/2026 12:18:13 - Exported 2 users to users.json
+17/05/2026 12:18:13 - Generated users.json
+17/05/2026 12:18:13 - ? users.json exported
+17/05/2026 12:18:13 - Step 2: Cleaning up old dashboard files...
+17/05/2026 12:18:13 - ? Cleaned up 0 old files
+17/05/2026 12:18:13 - Step 3: Deploying to GitHub...
+17/05/2026 12:18:13 - Found 9 files to upload
+17/05/2026 12:18:14 - Uploaded: dashboard_20260511.html
+17/05/2026 12:18:15 - Uploaded: dashboard_20260512.html
+17/05/2026 12:18:17 - Uploaded: dashboard_20260513.html
+17/05/2026 12:18:18 - Uploaded: dashboard_20260514.html
+17/05/2026 12:18:19 - Uploaded: dashboard_20260515.html
+17/05/2026 12:18:20 - Uploaded: dashboard_20260516.html
+17/05/2026 12:18:21 - Uploaded: dashboard_20260517.html
+17/05/2026 12:18:22 - Uploaded: index.html
+17/05/2026 12:18:24 - Uploaded: main.html
+17/05/2026 12:18:25 - Uploaded: users.json
+17/05/2026 12:18:25 - Upload complete: 10/10 files
+17/05/2026 12:18:25 - ? Deployed to GitHub successfully
+17/05/2026 12:18:25 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
+17/05/2026 12:18:25 - Step 4: Uploading log file...
+17/05/2026 12:18:26 - ? Log file uploaded to GitHub
+17/05/2026 12:18:26 - === PROCESS COMPLETED SUCCESSFULLY ===
+17/05/2026 23:44:02 - === AUTO DASHBOARD GENERATION STARTED ===
+17/05/2026 23:44:02 - Timestamp: 17/05/2026 23:44:02
+17/05/2026 23:44:02 - Step 1: Generating last 3 days of dashboards...
+17/05/2026 23:44:02 - Regenerating last 7 days of dashboards...
+17/05/2026 23:44:02 - Generated: dashboard_20260511.html
+17/05/2026 23:44:02 - Generated: dashboard_20260512.html
+17/05/2026 23:44:02 - Generated: dashboard_20260513.html
+17/05/2026 23:44:02 - Generated: dashboard_20260514.html
+17/05/2026 23:44:02 - Generated: dashboard_20260515.html
+17/05/2026 23:44:02 - Generated: dashboard_20260516.html
+17/05/2026 23:44:02 - Generated: dashboard_20260517.html
+17/05/2026 23:44:02 - ? Regenerated 7 days of dashboards
+17/05/2026 23:44:02 - ? Dashboards generated successfully (includes yesterday for data updates)
+17/05/2026 23:44:02 - Step 1b: Regenerating main.html with date list...
+17/05/2026 23:44:02 - GenerateMainIndex: Searching for files in: C:\CLNTMP\FILES\EINVOICE_RUN\DRWONG\PERMATA\API_DATA\dashboard_*.html
+17/05/2026 23:44:02 - GenerateMainIndex: Found 7 files
+17/05/2026 23:44:02 - Generated main.html with 7 dates
+17/05/2026 23:44:02 - ? main.html regenerated with latest dates (DESCENDING order)
+17/05/2026 23:44:02 - Step 1c: Generating login page as index.html...
+17/05/2026 23:44:02 - Generated index.html (login page)
+17/05/2026 23:44:02 - ? Login page generated as index.html
+17/05/2026 23:44:02 - Step 1d: Exporting users to JSON...
+17/05/2026 23:44:02 - Exported 2 users to users.json
+17/05/2026 23:44:02 - Generated users.json
+17/05/2026 23:44:02 - ? users.json exported
+17/05/2026 23:44:02 - Step 2: Cleaning up old dashboard files...
+17/05/2026 23:44:02 - ? Cleaned up 0 old files
+17/05/2026 23:44:02 - Step 3: Deploying to GitHub...
+17/05/2026 23:44:02 - Found 9 files to upload
+17/05/2026 23:44:03 - Uploaded: dashboard_20260511.html
+17/05/2026 23:44:04 - Uploaded: dashboard_20260512.html
+17/05/2026 23:44:05 - Uploaded: dashboard_20260513.html
+17/05/2026 23:44:06 - Uploaded: dashboard_20260514.html
+17/05/2026 23:44:08 - Uploaded: dashboard_20260515.html
+17/05/2026 23:44:09 - Uploaded: dashboard_20260516.html
+17/05/2026 23:44:10 - Uploaded: dashboard_20260517.html
+17/05/2026 23:44:11 - Uploaded: index.html
+17/05/2026 23:44:12 - Uploaded: main.html
+17/05/2026 23:44:13 - Uploaded: users.json
+17/05/2026 23:44:13 - Upload complete: 10/10 files
+17/05/2026 23:44:13 - ? Deployed to GitHub successfully
+17/05/2026 23:44:13 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
+17/05/2026 23:44:13 - Step 4: Uploading log file...
