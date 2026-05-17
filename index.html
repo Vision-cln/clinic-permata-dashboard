@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head><title>Login</title><meta charset='UTF-8'>
+<style>
+body{font-family:Arial,sans-serif;margin:0;padding:0;background:linear-gradient(135deg,#2196F3 0%,#1976D2 100%);min-height:100vh;display:flex;align-items:center;justify-content:center}
+.box{background:#fff;padding:40px;border-radius:10px;box-shadow:0 4px 20px rgba(0,0,0,0.3);text-align:center;width:300px}
+h1{margin:0 0 20px 0;color:#2196F3}
+input{width:100%;padding:12px;margin-bottom:15px;border:1px solid #ddd;border-radius:5px;box-sizing:border-box}
+button{width:100%;padding:12px;background:#2196F3;color:#fff;border:none;border-radius:5px;cursor:pointer;font-size:16px}
+button:hover{background:#1976D2}
+.err{color:#e74c3c;margin-top:10px}
+</style></head>
+<body>
+<div class='box'>
+<h1>Clinic Dashboard</h1>
+<form onsubmit='return login()'>
+<input type='text' id='u' placeholder='Username' required>
+<div style='position:relative;width:100%'>
+<input type='password' id='p' placeholder='Password' required style='width:100%;padding-right:40px'>
+<span id='eye' onclick='togglePass()' style='position:absolute;right:10px;top:50%;transform:translateY(-50%);cursor:pointer;user-select:none;font-size:12px;color:#666'>SHOW</span>
+</div>
+<button type='submit'>Sign In</button>
+</form>
+<div id='e' class='err'></div>
+</div>
+<script>
+var users={};
+var x=new XMLHttpRequest();
+x.open('GET','users.json',false);
+x.send();
+if(x.status==200){try{users=JSON.parse(x.responseText);}catch(e){}}
+function togglePass(){var p=document.getElementById('p');var e=document.getElementById('eye');if(p.type=='password'){p.type='text';e.textContent='HIDE';e.style.color='#e74c3c';}else{p.type='password';e.textContent='SHOW';e.style.color='#666';}}
+function login(){
+  var u=document.getElementById('u').value.toLowerCase();
+  var p=document.getElementById('p').value;
+  var e=document.getElementById('e');
+  if(users[u]!=null&&users[u]==p){
+    sessionStorage.setItem('auth','1');
+    window.location.href='main.html';
+    return false;
+  }
+  e.innerHTML='Invalid credentials';
+  return false;
+}
+</script>
+</body></html>
