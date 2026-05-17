@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Clinic Management Dashboard</title>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<style>
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; }
+.header { background: #2196F3; color: white; padding: 20px 30px; }
+.header h1 { margin: 0; font-size: 28px; }
+.quick-access { font-size: 14px; margin-top: 5px; opacity: 0.9; }
+.stats-container { padding: 20px; }
+.stats-row { display: flex; gap: 20px; flex-wrap: wrap; }
+.stat-card { background: white; border-radius: 8px; padding: 20px; flex: 1; min-width: 200px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+.stat-card h3 { margin: 0 0 10px 0; color: #333; font-size: 16px; }
+.stat-value { font-size: 36px; font-weight: bold; margin-bottom: 5px; }
+.stat-value.blue { color: #2196F3; }
+.stat-detail { font-size: 12px; color: #666; }
+.activity-detail { font-size: 13px; color: #666; line-height: 1.6; }
+.date-section { background: white; margin: 0 20px 20px 20px; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+.date-section h2 { margin: 0 0 15px 0; color: #2196F3; font-size: 18px; }
+.date-buttons { display: flex; flex-wrap: wrap; gap: 10px; }
+.date-button { background: #4CAF50; color: white; padding: 10px 15px; border-radius: 4px; text-decoration: none; font-size: 14px; transition: background 0.3s; }
+.date-button:hover { background: #45a049; }
+</style>
+</head>
+<body>
+<script>
+var _a=sessionStorage.getItem('auth');if(_a==null||_a==''){window.location.href='index.html';}
+</script>
+<div class='header'>
+  <h1>Clinic Management Dashboard</h1>
+  <div class='quick-access'>Quick Access:</div>
+</div>
+<div class='stats-container'>
+  <div class='stats-row'>
+    <div class='stat-card'>
+      <h3>Total Patients</h3>
+      <div class='stat-value blue'>298</div>
+      <div class='stat-detail'>New Today: 0</div>
+    </div>
+    <div class='stat-card'>
+      <h3>Consultations</h3>
+      <div class='stat-value blue'>0</div>
+      <div class='stat-detail'>Today: 0</div>
+    </div>
+    <div class='stat-card'>
+      <h3>Revenue</h3>
+      <div class='stat-value blue'>RM 0</div>
+      <div class='stat-detail'>Today: RM 0</div>
+    </div>
+    <div class='stat-card'>
+      <h3>Today's Activity</h3>
+      <div class='activity-detail'>
+        Appointments: 0<br>
+        Pending: 0<br>
+        Last Update: 17/05/2026 23:44:02
+      </div>
+    </div>
+  </div>
+</div>
+<div class='date-section'>
+  <h2>Select Date to View Detailed Dashboard</h2>
+  <div class='date-buttons'>
+    <a href='dashboard_20260517.html' class='date-button'>17/05/2026</a>
+    <a href='dashboard_20260516.html' class='date-button'>16/05/2026</a>
+    <a href='dashboard_20260515.html' class='date-button'>15/05/2026</a>
+    <a href='dashboard_20260514.html' class='date-button'>14/05/2026</a>
+    <a href='dashboard_20260513.html' class='date-button'>13/05/2026</a>
+    <a href='dashboard_20260512.html' class='date-button'>12/05/2026</a>
+    <a href='dashboard_20260511.html' class='date-button'>11/05/2026</a>
+  </div>
+</div>
+<div style='text-align:center;padding:20px;background:#f5f5f5;border-top:1px solid #ddd'>
+  <a href='index.html' onclick='sessionStorage.removeItem("auth")' style='color:#e74c3c;text-decoration:none;font-weight:bold'>Logout</a>
+</div>
+</body>
+</html>
