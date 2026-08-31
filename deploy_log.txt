@@ -286,3 +286,214 @@
 17/05/2026 23:44:13 - ? Deployed to GitHub successfully
 17/05/2026 23:44:13 - URL: https://vision-cln.github.io/clinic-penang-dashboard/
 17/05/2026 23:44:13 - Step 4: Uploading log file...
+17/05/2026 23:44:15 - ? Log file uploaded to GitHub
+17/05/2026 23:44:15 - === PROCESS COMPLETED SUCCESSFULLY ===
+31/08/2026 15:05:52 - === AUTO DASHBOARD GENERATION STARTED ===
+31/08/2026 15:05:52 - Timestamp: 31/08/2026 15:05:52
+31/08/2026 15:05:52 - Step 1: Generating last 7 days of dashboards...
+31/08/2026 15:05:52 - Regenerating last 7 days of dashboards...
+31/08/2026 15:05:52 - No patient activity records found for date: 25/08/2026
+31/08/2026 15:05:52 - Generated: dashboard_20260825.html
+31/08/2026 15:05:52 - No patient activity records found for date: 26/08/2026
+31/08/2026 15:05:52 - Generated: dashboard_20260826.html
+31/08/2026 15:05:52 - No patient activity records found for date: 27/08/2026
+31/08/2026 15:05:52 - Generated: dashboard_20260827.html
+31/08/2026 15:05:52 - No patient activity records found for date: 28/08/2026
+31/08/2026 15:05:52 - Generated: dashboard_20260828.html
+31/08/2026 15:05:52 - No patient activity records found for date: 29/08/2026
+31/08/2026 15:05:52 - Generated: dashboard_20260829.html
+31/08/2026 15:05:52 - No patient activity records found for date: 30/08/2026
+31/08/2026 15:05:52 - Generated: dashboard_20260830.html
+31/08/2026 15:05:52 - Generated: dashboard_20260831.html
+31/08/2026 15:05:52 - ? Regenerated 7 days of dashboards
+31/08/2026 15:05:52 - ? Dashboards generated successfully (includes yesterday for data updates)
+31/08/2026 15:05:52 - Step 1b: Regenerating main.html with date list...
+31/08/2026 15:05:52 - GenerateMainIndex: Searching for dashboard files 
+31/08/2026 15:05:52 - GenerateMainIndex: Found 14 files
+31/08/2026 15:05:52 - Generated main.html with 14 dates
+31/08/2026 15:05:52 - ? main.html regenerated with latest dates (DESCENDING order)
+31/08/2026 15:05:52 - Step 1c: Generating login page as index.html...
+31/08/2026 15:05:52 - Generated index.html (login page)
+31/08/2026 15:05:52 - ? Login page generated as index.html
+31/08/2026 15:05:52 - Step 1d: Exporting users to JSON...
+31/08/2026 15:05:52 - Exported 2 users to users.json
+31/08/2026 15:05:52 - Generated users.json
+31/08/2026 15:05:52 - ? users.json exported
+31/08/2026 15:05:52 - Step 2: Cleaning up old dashboard files...
+31/08/2026 15:05:52 - Deleted old dashboard: DASHBOARD_20260511.HTML
+31/08/2026 15:05:52 - Deleted old dashboard: DASHBOARD_20260512.HTML
+31/08/2026 15:05:52 - Deleted old dashboard: DASHBOARD_20260513.HTML
+31/08/2026 15:05:52 - Deleted old dashboard: DASHBOARD_20260514.HTML
+31/08/2026 15:05:52 - Deleted old dashboard: DASHBOARD_20260515.HTML
+31/08/2026 15:05:52 - Deleted old dashboard: DASHBOARD_20260516.HTML
+31/08/2026 15:05:52 - Deleted old dashboard: DASHBOARD_20260517.HTML
+31/08/2026 15:05:52 - ? Cleaned up 7 old files
+31/08/2026 15:05:52 - Step 3: Deploying to Server...
+31/08/2026 15:05:52 - ERROR: No Server token
+31/08/2026 15:05:52 - ? Server deployment failed
+31/08/2026 15:05:52 - Step 4: Uploading log file...
+31/08/2026 15:05:52 - === PROCESS COMPLETED SUCCESSFULLY ===
+02/09/2026 15:11:27 - === AUTO DASHBOARD GENERATION STARTED ===
+02/09/2026 15:11:27 - Timestamp: 02/09/2026 15:11:27
+02/09/2026 15:11:27 - Step 1: Generating last 7 days of dashboards...
+02/09/2026 15:11:27 - Regenerating last 7 days of dashboards...
+02/09/2026 15:11:27 - No patient activity records found for date: 27/08/2026
+02/09/2026 15:11:27 - Generated: dashboard_20260827.html
+02/09/2026 15:11:27 - No patient activity records found for date: 28/08/2026
+02/09/2026 15:11:27 - Generated: dashboard_20260828.html
+02/09/2026 15:11:27 - No patient activity records found for date: 29/08/2026
+02/09/2026 15:11:27 - Generated: dashboard_20260829.html
+02/09/2026 15:11:27 - No patient activity records found for date: 30/08/2026
+02/09/2026 15:11:27 - Generated: dashboard_20260830.html
+02/09/2026 15:11:27 - Generated: dashboard_20260831.html
+02/09/2026 15:11:28 - No patient activity records found for date: 01/09/2026
+02/09/2026 15:11:28 - Generated: dashboard_20260901.html
+02/09/2026 15:11:28 - No patient activity records found for date: 02/09/2026
+02/09/2026 15:11:28 - Generated: dashboard_20260902.html
+02/09/2026 15:11:28 - ? Regenerated 7 days of dashboards
+02/09/2026 15:11:28 - ? Dashboards generated successfully (includes yesterday for data updates)
+02/09/2026 15:11:28 - Step 1b: Regenerating main.html with date list...
+02/09/2026 15:11:28 - GenerateMainIndex: Searching for dashboard files 
+02/09/2026 15:11:28 - GenerateMainIndex: Found 9 files
+02/09/2026 15:11:28 - Generated main.html with 9 dates
+02/09/2026 15:11:28 - ? main.html regenerated with latest dates (DESCENDING order)
+02/09/2026 15:11:28 - Step 1c: Generating login page as index.html...
+02/09/2026 15:11:28 - Generated index.html (login page)
+02/09/2026 15:11:28 - ? Login page generated as index.html
+02/09/2026 15:11:28 - Step 1d: Exporting users to JSON...
+02/09/2026 15:11:28 - Exported 2 users to users.json
+02/09/2026 15:11:28 - Generated users.json
+02/09/2026 15:11:28 - ? users.json exported
+02/09/2026 15:11:28 - Step 2: Cleaning up old dashboard files...
+02/09/2026 15:11:28 - ? Cleaned up 0 old files
+02/09/2026 15:11:28 - Step 3: Deploying to Server...
+02/09/2026 15:11:28 - ERROR: No Server token
+02/09/2026 15:11:28 - ? Server deployment failed
+02/09/2026 15:11:28 - Step 4: Uploading log file...
+02/09/2026 15:11:28 - === PROCESS COMPLETED SUCCESSFULLY ===
+02/09/2026 15:12:57 - === AUTO DASHBOARD GENERATION STARTED ===
+02/09/2026 15:12:57 - Timestamp: 02/09/2026 15:12:57
+02/09/2026 15:12:57 - Step 1: Generating last 7 days of dashboards...
+02/09/2026 15:12:57 - Regenerating last 7 days of dashboards...
+02/09/2026 15:12:57 - No patient activity records found for date: 27/08/2026
+02/09/2026 15:12:57 - Generated: dashboard_20260827.html
+02/09/2026 15:12:57 - No patient activity records found for date: 28/08/2026
+02/09/2026 15:12:57 - Generated: dashboard_20260828.html
+02/09/2026 15:12:58 - No patient activity records found for date: 29/08/2026
+02/09/2026 15:12:58 - Generated: dashboard_20260829.html
+02/09/2026 15:12:58 - No patient activity records found for date: 30/08/2026
+02/09/2026 15:12:58 - Generated: dashboard_20260830.html
+02/09/2026 15:12:58 - Generated: dashboard_20260831.html
+02/09/2026 15:12:58 - No patient activity records found for date: 01/09/2026
+02/09/2026 15:12:58 - Generated: dashboard_20260901.html
+02/09/2026 15:12:58 - No patient activity records found for date: 02/09/2026
+02/09/2026 15:12:58 - Generated: dashboard_20260902.html
+02/09/2026 15:12:58 - ? Regenerated 7 days of dashboards
+02/09/2026 15:12:58 - ? Dashboards generated successfully (includes yesterday for data updates)
+02/09/2026 15:12:58 - Step 1b: Regenerating main.html with date list...
+02/09/2026 15:12:58 - GenerateMainIndex: Searching for dashboard files 
+02/09/2026 15:12:58 - GenerateMainIndex: Found 9 files
+02/09/2026 15:12:58 - Generated main.html with 9 dates
+02/09/2026 15:12:58 - ? main.html regenerated with latest dates (DESCENDING order)
+02/09/2026 15:12:58 - Step 1c: Generating login page as index.html...
+02/09/2026 15:12:58 - Generated index.html (login page)
+02/09/2026 15:12:58 - ? Login page generated as index.html
+02/09/2026 15:12:58 - Step 1d: Exporting users to JSON...
+02/09/2026 15:12:58 - Exported 2 users to users.json
+02/09/2026 15:12:58 - Generated users.json
+02/09/2026 15:12:58 - ? users.json exported
+02/09/2026 15:12:58 - Step 2: Cleaning up old dashboard files...
+02/09/2026 15:12:58 - ? Cleaned up 0 old files
+02/09/2026 15:12:58 - Step 3: Deploying to Server...
+02/09/2026 15:12:58 - ERROR: No Server token
+02/09/2026 15:12:58 - ? Server deployment failed
+02/09/2026 15:12:58 - Step 4: Uploading log file...
+02/09/2026 15:12:58 - === PROCESS COMPLETED SUCCESSFULLY ===
+31/08/2026 15:15:26 - === AUTO DASHBOARD GENERATION STARTED ===
+31/08/2026 15:15:26 - Timestamp: 31/08/2026 15:15:26
+31/08/2026 15:15:26 - Step 1: Generating last 7 days of dashboards...
+31/08/2026 15:15:26 - Regenerating last 7 days of dashboards...
+31/08/2026 15:15:26 - No patient activity records found for date: 25/08/2026
+31/08/2026 15:15:26 - Generated: dashboard_20260825.html
+31/08/2026 15:15:26 - No patient activity records found for date: 26/08/2026
+31/08/2026 15:15:26 - Generated: dashboard_20260826.html
+31/08/2026 15:15:26 - No patient activity records found for date: 27/08/2026
+31/08/2026 15:15:26 - Generated: dashboard_20260827.html
+31/08/2026 15:15:26 - No patient activity records found for date: 28/08/2026
+31/08/2026 15:15:26 - Generated: dashboard_20260828.html
+31/08/2026 15:15:26 - No patient activity records found for date: 29/08/2026
+31/08/2026 15:15:26 - Generated: dashboard_20260829.html
+31/08/2026 15:15:26 - No patient activity records found for date: 30/08/2026
+31/08/2026 15:15:26 - Generated: dashboard_20260830.html
+31/08/2026 15:15:26 - Generated: dashboard_20260831.html
+31/08/2026 15:15:26 - ? Regenerated 7 days of dashboards
+31/08/2026 15:15:26 - ? Dashboards generated successfully (includes yesterday for data updates)
+31/08/2026 15:15:26 - Step 1b: Regenerating main.html with date list...
+31/08/2026 15:15:26 - GenerateMainIndex: Searching for dashboard files 
+31/08/2026 15:15:26 - GenerateMainIndex: Found 9 files
+31/08/2026 15:15:26 - Generated main.html with 9 dates
+31/08/2026 15:15:26 - ? main.html regenerated with latest dates (DESCENDING order)
+31/08/2026 15:15:26 - Step 1c: Generating login page as index.html...
+31/08/2026 15:15:26 - Generated index.html (login page)
+31/08/2026 15:15:26 - ? Login page generated as index.html
+31/08/2026 15:15:26 - Step 1d: Exporting users to JSON...
+31/08/2026 15:15:26 - Exported 2 users to users.json
+31/08/2026 15:15:26 - Generated users.json
+31/08/2026 15:15:26 - ? users.json exported
+31/08/2026 15:15:26 - Step 2: Cleaning up old dashboard files...
+31/08/2026 15:15:26 - ? Cleaned up 0 old files
+31/08/2026 15:15:26 - Step 3: Deploying to Server...
+31/08/2026 15:15:26 - ERROR: No Server token
+31/08/2026 15:15:26 - ? Server deployment failed
+31/08/2026 15:15:26 - Step 4: Uploading log file...
+31/08/2026 15:15:26 - === PROCESS COMPLETED SUCCESSFULLY ===
+31/08/2026 15:19:25 - === AUTO DASHBOARD GENERATION STARTED ===
+31/08/2026 15:19:25 - Timestamp: 31/08/2026 15:19:25
+31/08/2026 15:19:25 - Step 1: Generating last 7 days of dashboards...
+31/08/2026 15:19:25 - Regenerating last 7 days of dashboards...
+31/08/2026 15:19:25 - No patient activity records found for date: 25/08/2026
+31/08/2026 15:19:25 - Generated: dashboard_20260825.html
+31/08/2026 15:19:25 - No patient activity records found for date: 26/08/2026
+31/08/2026 15:19:25 - Generated: dashboard_20260826.html
+31/08/2026 15:19:25 - No patient activity records found for date: 27/08/2026
+31/08/2026 15:19:25 - Generated: dashboard_20260827.html
+31/08/2026 15:19:25 - No patient activity records found for date: 28/08/2026
+31/08/2026 15:19:25 - Generated: dashboard_20260828.html
+31/08/2026 15:19:25 - No patient activity records found for date: 29/08/2026
+31/08/2026 15:19:25 - Generated: dashboard_20260829.html
+31/08/2026 15:19:25 - No patient activity records found for date: 30/08/2026
+31/08/2026 15:19:25 - Generated: dashboard_20260830.html
+31/08/2026 15:19:25 - Generated: dashboard_20260831.html
+31/08/2026 15:19:25 - ? Regenerated 7 days of dashboards
+31/08/2026 15:19:25 - ? Dashboards generated successfully (includes yesterday for data updates)
+31/08/2026 15:19:25 - Step 1b: Regenerating main.html with date list...
+31/08/2026 15:19:25 - GenerateMainIndex: Searching for dashboard files 
+31/08/2026 15:19:25 - GenerateMainIndex: Found 9 files
+31/08/2026 15:19:25 - Generated main.html with 9 dates
+31/08/2026 15:19:25 - ? main.html regenerated with latest dates (DESCENDING order)
+31/08/2026 15:19:25 - Step 1c: Generating login page as index.html...
+31/08/2026 15:19:25 - Generated index.html (login page)
+31/08/2026 15:19:25 - ? Login page generated as index.html
+31/08/2026 15:19:25 - Step 1d: Exporting users to JSON...
+31/08/2026 15:19:25 - Exported 2 users to users.json
+31/08/2026 15:19:25 - Generated users.json
+31/08/2026 15:19:25 - ? users.json exported
+31/08/2026 15:19:25 - Step 2: Cleaning up old dashboard files...
+31/08/2026 15:19:25 - ? Cleaned up 0 old files
+31/08/2026 15:19:25 - Step 3: Deploying to Server...
+31/08/2026 15:19:25 - Found 11 files to upload
+31/08/2026 15:19:28 - Uploaded: dashboard_20260825.html
+31/08/2026 15:19:29 - Uploaded: dashboard_20260826.html
+31/08/2026 15:19:31 - Uploaded: dashboard_20260827.html
+31/08/2026 15:19:32 - Uploaded: dashboard_20260828.html
+31/08/2026 15:19:33 - Uploaded: dashboard_20260829.html
+31/08/2026 15:19:35 - Uploaded: dashboard_20260830.html
+31/08/2026 15:19:36 - Uploaded: dashboard_20260831.html
+31/08/2026 15:19:38 - Uploaded: dashboard_20260901.html
+31/08/2026 15:19:39 - Uploaded: dashboard_20260902.html
+31/08/2026 15:19:41 - Uploaded: index.html
+31/08/2026 15:19:42 - Uploaded: main.html
+31/08/2026 15:19:43 - Uploaded: users.json
+31/08/2026 15:19:43 - Upload complete: 12/12 files
+31/08/2026 15:19:43 - ? Deployed to Server successfully
+31/08/2026 15:19:43 - Step 4: Uploading log file...
