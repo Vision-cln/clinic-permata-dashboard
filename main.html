@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Clinic Management Dashboard</title>
+<title>KLINIK PUSAT PAKAR PERMATA - Management Dashboard</title>
 <meta charset='UTF-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0'>
 <style>
@@ -17,6 +17,12 @@ body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f
 .stat-value.blue { color: #2196F3; }
 .stat-detail { font-size: 12px; color: #666; }
 .activity-detail { font-size: 13px; color: #666; line-height: 1.6; }
+.revenue-card { padding:16px 20px; }
+.revenue-card h3 { margin:0 0 6px 0; font-size:16px; font-weight:600; }
+.revenue-breakdown { margin-top:0; padding-top:6px; border-top:1px solid #e9ecef; text-align:left; width:100%; }
+.revenue-row { display:flex; justify-content:space-between; align-items:center; width:100%; margin:4px 0; }
+.revenue-name { font-weight:600; color:#555; }
+.revenue-amount { font-weight:bold; color:#2196F3; }
 .date-section { background: white; margin: 0 20px 20px 20px; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
 .date-section h2 { margin: 0 0 15px 0; color: #2196F3; font-size: 18px; }
 .date-buttons { display: flex; flex-wrap: wrap; gap: 10px; }
@@ -29,32 +35,41 @@ body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f
 var _a=sessionStorage.getItem('auth');if(_a==null||_a==''){window.location.href='index.html';}
 </script>
 <div class='header'>
-  <h1>Clinic Management Dashboard</h1>
-  <div class='quick-access'>Quick Access:</div>
+  <div style='display:flex;justify-content:space-between;align-items:center;padding:20px 30px'>
+    <div>
+      <h1 style='margin:0;font-size:28px'>KLINIK PUSAT PAKAR PERMATA - Clinic Management Dashboard</h1>
+      <div class='quick-access'>Quick Access:</div>
+    </div>
+    <div style='text-align:right'>
+      <div style='font-size:14px;opacity:0.9'>Logged in as:</div>
+      <div id='user-display' style='font-weight:bold;font-size:16px'></div>
+    </div>
+  </div>
 </div>
+<script>document.getElementById('user-display').textContent=sessionStorage.getItem('username')||'Unknown';</script>
 <div class='stats-container'>
   <div class='stats-row'>
     <div class='stat-card'>
       <h3>Total Patients</h3>
-      <div class='stat-value blue'>298</div>
-      <div class='stat-detail'>New Today: 0</div>
+      <div class='stat-value blue'>30</div>
+      <div class='stat-detail'>New Patient Today: 3</div>
     </div>
     <div class='stat-card'>
       <h3>Consultations</h3>
-      <div class='stat-value blue'>0</div>
-      <div class='stat-detail'>Today: 0</div>
+      <div class='stat-value blue'>1</div>
+      <div class='stat-detail'>Today: 1</div>
     </div>
     <div class='stat-card'>
       <h3>Revenue</h3>
-      <div class='stat-value blue'>RM 0</div>
-      <div class='stat-detail'>Today: RM 0</div>
+      <div class='stat-value blue'>RM 46</div>
+      <div class='stat-detail'>Today: RM 46</div>
     </div>
     <div class='stat-card'>
       <h3>Today's Activity</h3>
       <div class='activity-detail'>
-        Appointments: 0<br>
+        Total Registered: 1<br>
         Pending: 0<br>
-        Last Update: 17/05/2026 23:44:02
+        Last Update: 31/08/2026 15:19:25
       </div>
     </div>
   </div>
@@ -62,13 +77,15 @@ var _a=sessionStorage.getItem('auth');if(_a==null||_a==''){window.location.href=
 <div class='date-section'>
   <h2>Select Date to View Detailed Dashboard</h2>
   <div class='date-buttons'>
-    <a href='dashboard_20260517.html' class='date-button'>17/05/2026</a>
-    <a href='dashboard_20260516.html' class='date-button'>16/05/2026</a>
-    <a href='dashboard_20260515.html' class='date-button'>15/05/2026</a>
-    <a href='dashboard_20260514.html' class='date-button'>14/05/2026</a>
-    <a href='dashboard_20260513.html' class='date-button'>13/05/2026</a>
-    <a href='dashboard_20260512.html' class='date-button'>12/05/2026</a>
-    <a href='dashboard_20260511.html' class='date-button'>11/05/2026</a>
+    <a href='dashboard_20260902.html' class='date-button'>02/09/2026</a>
+    <a href='dashboard_20260901.html' class='date-button'>01/09/2026</a>
+    <a href='dashboard_20260831.html' class='date-button'>31/08/2026</a>
+    <a href='dashboard_20260830.html' class='date-button'>30/08/2026</a>
+    <a href='dashboard_20260829.html' class='date-button'>29/08/2026</a>
+    <a href='dashboard_20260828.html' class='date-button'>28/08/2026</a>
+    <a href='dashboard_20260827.html' class='date-button'>27/08/2026</a>
+    <a href='dashboard_20260826.html' class='date-button'>26/08/2026</a>
+    <a href='dashboard_20260825.html' class='date-button'>25/08/2026</a>
   </div>
 </div>
 <div style='text-align:center;padding:20px;background:#f5f5f5;border-top:1px solid #ddd'>
