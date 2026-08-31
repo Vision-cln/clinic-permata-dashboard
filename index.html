@@ -12,7 +12,7 @@ button:hover{background:#1976D2}
 </style></head>
 <body>
 <div class='box'>
-<h1>Clinic Dashboard</h1>
+<h1>KLINIK PUSAT PAKAR PERMATA - Clinic Dashboard</h1>
 <form onsubmit='return login()'>
 <input type='text' id='u' placeholder='Username' required>
 <div style='position:relative;width:100%'>
@@ -36,6 +36,7 @@ function login(){
   var e=document.getElementById('e');
   if(users[u]!=null&&users[u]==p){
     sessionStorage.setItem('auth','1');
+    sessionStorage.setItem('username',u);
     window.location.href='main.html';
     return false;
   }
